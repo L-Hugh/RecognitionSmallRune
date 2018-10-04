@@ -1,0 +1,3 @@
+/media/hugh/HUGH/Code/RobotLab/RecognitionSmallRune/build/CMakeFiles/rebuild_cache.dir
+/media/hugh/HUGH/Code/RobotLab/RecognitionSmallRune/build/CMakeFiles/edit_cache.dir
+/media/hugh/HUGH/Code/RobotLab/RecognitionSmallRune/build/CMakeFiles/RecognitionSmallRune.dir

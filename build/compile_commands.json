@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/hugh/HUGH/Code/RobotLab/RecognitionSmallRune/build",
+  "command": "/usr/bin/g++-5    -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv  -g   -o CMakeFiles/RecognitionSmallRune.dir/main.cpp.o -c /media/hugh/HUGH/Code/RobotLab/RecognitionSmallRune/main.cpp",
+  "file": "/media/hugh/HUGH/Code/RobotLab/RecognitionSmallRune/main.cpp"
+}
+]
